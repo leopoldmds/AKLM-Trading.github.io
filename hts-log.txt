@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 16 Feb 2021 00:06:32 at https://preview.colorlib.com/theme/imagine/#home-section +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://preview.colorlib.com/theme/imagine/#home-section -O1 "C:\Mes Sites Web\Imagine_2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:06:48	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+00:06:48	Warning: 	Retry after error -5 (Unable to get server's address: Hôte inconnu. ) at link primary/home-section (from primary/primary)
+00:06:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/home-section (from primary/primary)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-bg_glass_85_dfeffc_1x400.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-bg_glass_75_d0e5f5_1x400.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-bg_inset-hard_100_f5f8f9_1x100.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-bg_glass_95_fef1ec_1x400.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-icons_469bdd_256x240.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-icons_d8e7f3_256x240.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-icons_6da8d5_256x240.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-icons_217bc0_256x240.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-icons_f9bd01_256x240.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-icons_2e83ff_256x240.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/images/ui-icons_cd0a0a_256x240.png (from https://preview.colorlib.com/theme/imagine/css/jquery-ui.css)
+00:07:00	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/imagine/css/owl.video.play.png (from https://preview.colorlib.com/theme/imagine/css/owl.carousel.min.css)
+00:07:01	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/home-section (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 67 links scanned, 49 files written (4627111 bytes overall) [3001429 bytes received at 103497 bytes/sec], 2409323 bytes transferred using HTTP compression in 50 files, ratio 30%, 31.5 requests per connection
+(15 errors, 2 warnings, 0 messages)
